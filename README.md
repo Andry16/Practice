@@ -14,4 +14,4 @@
 
 # Логин и пароль от главного администратора! Логин: Assering, Пароль: Dantes12315_
 # Логин и пароль от обычного пользователя! Логин: Logika, Пароль: Krolik
-# Если что писать сюда по техюпроблемам: andryafpooo@mail.ru или kochegarovad21@st.ithub.ru
+# Если что писать сюда по тех.проблемам: andryafpooo@mail.ru или kochegarovad21@st.ithub.ru
